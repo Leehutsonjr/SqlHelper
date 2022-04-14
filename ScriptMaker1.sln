@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptMaker1", "ScriptMaker1\ScriptMaker1.csproj", "{839E0C6C-A07F-43C6-AF28-AAF7600FF5F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839E0C6C-A07F-43C6-AF28-AAF7600FF5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839E0C6C-A07F-43C6-AF28-AAF7600FF5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839E0C6C-A07F-43C6-AF28-AAF7600FF5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839E0C6C-A07F-43C6-AF28-AAF7600FF5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A0CB2C-ED28-4468-950F-C6045E5F476A}
+	EndGlobalSection
+EndGlobal

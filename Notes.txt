@@ -1,0 +1,22 @@
+1. Enable you to put your own delimeter 
+2. Clear the screen button
+3. Version on app
+4. layout and instructions
+
+Features:
+1. Single Insert
+2. Multi Insert
+3. 
+
+
+Single Insert:
+Data from spreadsheet 
+value formatted by row
+Enter "Y" or "N" for Quotes
+(ex: y,n,y = varchar, int, varchar)
+
+Multi Insert:
+Values comma separated
+Insert separated by row
+Enter "Y" or "N" for Quotes
+(ex: y,n,y = varchar, int, varchar)
